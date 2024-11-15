@@ -1,1 +1,1 @@
-connected Array4.js
+console.log("hello")
